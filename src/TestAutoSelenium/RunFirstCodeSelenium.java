@@ -17,6 +17,9 @@ public class RunFirstCodeSelenium {
 		driver.navigate().to("https://anhtester.com");
 
 		System.out.println(driver.getTitle());
+
+		System.out.println('hi there');
+
 		
 		Thread.sleep(2000);
 		// Thoát hẳn Browser
